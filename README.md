@@ -13,10 +13,13 @@
 </p>
 
 <ul>
-<li>🔭 Currently building <a href="https://github.com/linkmind-ai/rag-project">LinkMind RAG chatbot</a> project</li>
-<li>👨‍💻 All of my projects are available at <a href="https://melted-marten-862.notion.site/Sangheon-Jeong-c480c0c22f6247c49963777745aa1622">Portfolio</a></li>
-<li>💡 Interested in agentic RAG pipelines, information retrieval and LLM architectures</li>
-<li>📫 Contact: <b>shultra2@gmail.com</b></li>
+🔭 Currently building <a href="https://github.com/linkmind-ai/rag-project">LinkMind RAG chatbot</a> project
+<br />
+👨‍💻 All of my projects are available at <a href="https://melted-marten-862.notion.site/Sangheon-Jeong-c480c0c22f6247c49963777745aa1622">Portfolio</a>
+<br />
+💡 Interested in agentic RAG pipelines, information retrieval and LLM architectures
+<br />
+📫 Contact: <b>shultra2@gmail.com</b>
 </ul>
 
 <h3 align="left">Connect with me</h3>
