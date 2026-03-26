@@ -13,7 +13,7 @@
 </p>
 
 <ul>
-🔭 Currently building <a href="https://github.com/linkmind-ai/rag-project">LinkMind RAG chatbot</a> project
+🔭 Currently contributing to the <a href="https://github.com/linkmind-ai/rag-project"> LinkMind</a> organization, building a Notion-based RAG chatbot
 <br />
 👨‍💻 All of my projects are available at <a href="https://melted-marten-862.notion.site/Sangheon-Jeong-c480c0c22f6247c49963777745aa1622">Portfolio</a>
 <br />
