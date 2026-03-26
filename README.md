@@ -41,14 +41,13 @@
 <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=flat&logo=langgraph&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=flat&logo=Weights&Biases&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=flat&logo=Weights&Biases&logoColor=white">
-
-<br>
 
 
 
