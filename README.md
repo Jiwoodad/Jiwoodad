@@ -55,11 +55,11 @@
 
 <br>
 
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+<h2>🏅 Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiwoodad&show_icons=true&locale=en" alt="jiwoodad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiwoodad&" alt="jiwoodad" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiwoodad&show_icons=true&locale=en&v=1" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiwoodad&" height="160"/>
+</p>
 
 </div>
