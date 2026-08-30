@@ -19,7 +19,7 @@
 <br />
 💡 Interested in agentic RAG pipelines, information retrieval and LLM architectures
 <br />
-📫 Contact: <b>shultra2@gmail.com</b>
+📫 Contact: <b>summithonee@gmail.com</b>
 </ul>
 
 <h3 align="left">Connect with me</h3>
