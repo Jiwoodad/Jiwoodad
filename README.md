@@ -13,11 +13,11 @@
 </p>
 
 <ul>
-🔭 Currently contributing to the <a href="https://github.com/linkmind-ai/rag-project"> LinkMind</a> organization, building a Notion-based RAG chatbot
+🔭 Currently contributing to the <a href="https://github.com/linkmind-ai/rag-project"> LinkMind</a> organization, building a GraphRAG-based AI assistant for research papers
 <br />
 👨‍💻 All of my projects are available at <a href="https://melted-marten-862.notion.site/Sangheon-Jeong-c480c0c22f6247c49963777745aa1622">Portfolio</a>
 <br />
-💡 Interested in agentic RAG pipelines, information retrieval and LLM architectures
+💡 Interested in agentic RAG pipelines, knowledge graph and LLM architectures
 <br />
 📫 Contact: <b>summithonee@gmail.com</b>
 </ul>
@@ -36,7 +36,6 @@
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white">
 <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=flat&logo=langgraph&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
@@ -46,8 +45,8 @@
 <img src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=flat&logo=Weights&Biases&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/neo4j-4581C3?style=flat&logo=neo4j&logoColor=white">
 
 
 
